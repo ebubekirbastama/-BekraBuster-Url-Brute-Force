@@ -1,2 +1,2 @@
-# -BekraBuster-Url-Brute-Force
+# BekraBuster-Url-Brute-Force
 Url Deneyecisi
